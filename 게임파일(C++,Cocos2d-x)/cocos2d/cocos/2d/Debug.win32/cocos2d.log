@@ -1,0 +1,28 @@
+﻿  'PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\glfw3\prebuilt\win32\*.*" "D:\포트폴리오\게임프로젝트파일\'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  1개 파일이 복사되었습니다.
+  '\'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  '포트폴리오\게임프로젝트파일\'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  'p\prebuilt\win32\*.*" "D:\포트폴리오\게임프로젝트파일\'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  'ocos\2d\..\..\external\win32-specific\zlib\prebuilt\*.*" "D:\포트폴리오\게임프로젝트파일\'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  'eHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\win32-specific\icon\prebuilt\*.*" "D:\포트폴리오\게임프로젝트파일\'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  '\게임프로젝트파일\'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: "if not exist "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\" mkdir "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: xcopy /Y /Q "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\freetype2\prebuilt\win32\*.*" "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: xcopy /Y /Q "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\glfw3\prebuilt\win32\*.*" "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: xcopy /Y /Q "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\curl\prebuilt\win32\*.*" "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: xcopy /Y /Q "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\jpeg\prebuilt\win32\*.*" "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: xcopy /Y /Q "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\png\prebuilt\win32\*.*" "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: xcopy /Y /Q "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\tiff\prebuilt\win32\*.*" "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: xcopy /Y /Q "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\webp\prebuilt\win32\*.*" "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: xcopy /Y /Q "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\win32-specific\zlib\prebuilt\*.*" "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: xcopy /Y /Q "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\win32-specific\icon\prebuilt\*.*" "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: xcopy /Y /Q "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\cocos2d\cocos\2d\..\..\external\win32-specific\gles\prebuilt\*.*" "D:\포트폴리오\게임프로젝트파일\(6)PuzzleHero\PuzzleHero\proj.win32\Debug.win32\"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: 
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(143,5): error MSB3073: :VCEnd" 명령이 종료되었습니다(코드: 9009).
